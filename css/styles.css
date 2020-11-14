@@ -1,0 +1,219 @@
+/* testavimai */
+
+.carousel-item {
+  height: 100vh;
+  min-height: 350px;
+  background: no-repeat center center scroll;
+  -webkit-background-size: cover;
+  -moz-background-size: cover;
+  -o-background-size: cover;
+  background-size: cover;
+}
+
+
+
+.carousel-control-prev-icon,
+.carousel-control-next-icon {
+  height: 30px;
+  width: 30px;
+  filter: invert(100%);
+  opacity: 50%;
+}
+
+
+header .container {
+  position: relative;
+  z-index: 2;
+}
+
+header .overlay {
+  position: absolute;
+  top: 0;
+  left: 0;
+  height: 100%;
+  width: 100%;
+  background-color: black;
+  opacity: 0.5;
+  z-index: 1;
+}
+
+
+
+
+
+
+/* testavimai */
+
+
+#features h3 {
+  color: #fff;
+}
+p {
+  color: #fff;
+}
+
+em {
+  padding-left: 1000px;
+}
+
+
+.container-fluid {
+text-align: center;
+margin: 50px;
+
+}
+
+.container-fluid {
+  background-color: #fff;
+  margin: 0;
+
+}
+
+
+
+.col-lg-4 {
+  text-align: center;
+
+}
+
+#features .col-lg-6 {
+  text-align: center;
+
+}
+
+
+.nuotrauka {
+  float: right;
+  border-radius: 100%;
+  width: 350px
+}
+
+.container-fluid-2  {
+
+  text-align: center;
+}
+
+.klientai {
+  max-width: 300px;
+}
+
+
+#testimonials h2 {
+  margin-top: 80px;
+}
+
+#testimonials h1 {
+  text-align: center;
+  padding-top: 150px;
+  color: #000000;
+}
+
+#features h2 {
+  text-align: center;
+  position: relative;
+  bottom: 150px;
+  color: #fff;
+}
+
+#apie-mane {
+  margin: 100px;
+}
+
+#apie-mane h1 {
+  margin-top: 100px;
+  margin-bottom: 80px;
+  color: #000000;
+}
+#apie-mane h3 {
+  text-align: left;
+  margin-left: 50px;
+  border: 5px solid;
+  border-radius: 10px 100px / 120px;
+  box-shadow: -20px 10px 18px 0px #000000;
+  padding: 40px;
+}
+
+#features {
+  padding: 20% 15%;
+  height: 500px;
+  background-color: #cccccc;
+  background-image: url("gele.JPG");
+
+ background-position: center;
+ background-repeat: no-repeat;
+ background-size: cover;
+ position: relative;
+
+}
+
+#testimonials {
+
+ background-color: #fff;
+ color: #000000;
+ padding-bottom: 180px;
+}
+
+#press {
+  background-color: #EC4E20;
+  text-align: center;
+  padding-bottom: 3%;
+}
+#nuotraukos {
+
+  text-align: center;
+  background-image: url("C:/Users/Mantas/Downloads/TinDog-Start-master/TinDog-Start-master/images/bela.JPG");
+  background-color: #cccccc;
+   background-position: center;
+   background-size: cover;
+}
+
+.press-images {
+  width: 15%;
+  margin: 20px 40px;
+}
+.testimonial-image {
+  border-radius: 100%;
+  width: 300px;
+  background-color: #fff;
+}
+.carousel-item {
+  text-align: center;
+   padding: 7% 15%;
+}
+.card-deck {
+  text-align: center;
+}
+.kortele {
+  padding: 2% 3%;
+}
+.title-image {
+  width: 60%;
+  position:relative;
+  padding: 100px 50px;
+
+
+}
+@media (max-width:992px) {
+  .title-image {
+    position: static;
+    transform: rotate(0deg);
+    padding: 40px 0;
+  }
+
+}
+
+#cta {
+  background-color: #fff;
+  text-align: center;
+  padding: 15% 7%;
+}
+.bottom-buttons {
+  margin: 30px;
+}
+.bottom-text {
+  font-size: 2.5rem;
+}
+#footer {
+  text-align: center;
+  color: #00000;
+}
